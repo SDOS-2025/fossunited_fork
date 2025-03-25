@@ -4,7 +4,7 @@
 
 ## The FOSS United Platform
 
-Repo for the website and open-source platform of FOSS United. The whole platform is being built on [Frappe](https://frappe.io).
+Repo for the website and open-source platform of FOSS United. The whole platform is being built on [Frappe](https://frappe.io) & Vue.
 
 ## Installation
 
