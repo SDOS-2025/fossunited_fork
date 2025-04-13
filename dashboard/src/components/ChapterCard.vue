@@ -7,6 +7,7 @@
     @keyup.space.prevent="goToChapter"
     class="border-2 border-transparent rounded-[8px] hover:border-gray-500 transition-colors hover:cursor-pointer focus:outline-none focus:ring-2 focus:ring-blue-600"
   >
+
     <template #actions-left>
       <FossClubLogo
         v-if="props.chapter.chapter_type == 'FOSS Club'"
